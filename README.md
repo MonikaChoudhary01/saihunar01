@@ -18,7 +18,7 @@ Cross-Team Collaboration: Established an effective feedback loop with data analy
 
 # Projects 🧑‍🔧
 
-- Project 1: Data Processing for Retail Company
+- Project 1: 
 - Project 2:
 - Power BI Projects:
   - upi
@@ -29,9 +29,7 @@ Cross-Team Collaboration: Established an effective feedback loop with data analy
 - GCP - Google Cloud associate
 - Oracle - OCP
 - Oracle Cloud Infrastructure 2019 Certified Foundations Associate
-Oracle Cloud Data Management 2021 Certified Foundations Associate
-Coursera - GCP Fundamentals
+- Oracle Cloud Data Management 2021 Certified Foundations Associate
+- Coursera - GCP Fundamentals
 
-Get in Touch 📩
-Feel free to reach out to me on GitHub or LinkedIn if you'd like to discuss data engineering, collaborate on a project, or simply say hello!
 
