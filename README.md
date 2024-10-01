@@ -1,12 +1,20 @@
-# Monika-Choudhary
+### About Me
+Data Scientist with a knack for turning data into actionable insights. Enjoy solving complex problems using statistical analysis, machine learning. My projects range from predictive modeling  to data visualization and  data analysis. I thrive on working with interdisciplinary teams and bringing innovative solutions to life.
 
 # Interests 🔭
-Data Science : fascinated by the challenges for handling large-scale data ,representation | Visualization of data and building applications | decision models that can process the data efficiently and find the pattern within the data. 
 
+- Handling large-scale data: Addressing the challenges of processing and managing vast amounts of data efficiently.
+- Representation & Data Visualization: Translating complex datasets into meaningful ,insightful, interactive visualizations with Matplotlib, Seaborn, Plotly, and dashboards using Tableau and Power BI.
+- Building applications & decision models: Developing predictive models, working with automating processes using algorithms like decision trees, SVMs, and ML techniques.
+- Statistical Analysis: Utilizing statistical methods for exploratory analysis, hypothesis testing, and creating predictive models.
+  
 # Skills 🦾
 - Programming languages: Python, SQL
+- Libraries & Frameworks: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- Data Visualization: Tableau, Power BI, Plotly , seaborn
 - Database Management Systems: Oracle , PostgreSQL , Microsoft SQL server
-- Cloud Services: Azure PostgreSQL Database, Azure SQl Database, EC2 , Elastic Beanstalk.
+- Cloud Services: Azure PostgreSQL Database, Elastic Beanstalk.
+- Other: Git, Docker, Jupyter Notebooks.
 
 # Experience 👨‍💻
 
@@ -18,7 +26,8 @@ Cross-Team Collaboration: Established an effective feedback loop with data analy
 
 # Projects 🧑‍🔧
 
-- Project 1: 
+- Project 1:
+ Built a machine learning model using historical data to forecast sales for a retail company. Applied regression techniques and fine-tuned the model for accuracy using hyperparameter tuning.
 - Project 2:
 - Power BI Projects:
   - upi
@@ -31,5 +40,8 @@ Cross-Team Collaboration: Established an effective feedback loop with data analy
 - Oracle Cloud Infrastructure 2019 Certified Foundations Associate
 - Oracle Cloud Data Management 2021 Certified Foundations Associate
 - Coursera - GCP Fundamentals
+
+🎯 Let's Connect!
+I'm always eager to collaborate on exciting data science projects or just chat about the latest trends in AI and machine learning. Feel free to reach out!
 
 
